@@ -1,0 +1,2 @@
+# VehicleRentalSystem
+DriveAway Vehicle Rental is a web application that allows its users to register themselves and rent vehicles according to their desire. Vehicle owners are able to register their vehicles on web application to be given on rentbasis. Online payment facility is also provided in this web application. This project has, Spring-Boot as a backend technology and MySQL is used to build the database. Similarly as for frontend, web technologies like React JS, Html5 and CSS have been utilized.
